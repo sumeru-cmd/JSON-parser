@@ -1,0 +1,10 @@
+# Compiled binaries / Executables
+*.out
+*.exe
+*.o
+*.app
+parser
+
+# macOS and Windows system files
+.DS_Store
+Thumbs.db
